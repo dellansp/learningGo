@@ -1,0 +1,2 @@
+# learningGo
+FIRST TIME I LEARN GOLANG
