@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainn() {
 	var point = 8
 	if point == 10 {
 		fmt.Println("lulus")
