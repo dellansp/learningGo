@@ -12,5 +12,5 @@ func main() {
 	var numberB *int = &numberA
 	*numberB = 8
 
-	fmt.Println("halo", firstName, lastName, bilBulat, *numberB, "!\n")
+	fmt.Print("halo", firstName, lastName, bilBulat, *numberB, "!\n")
 }
